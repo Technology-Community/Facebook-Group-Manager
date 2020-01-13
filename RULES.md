@@ -1,5 +1,5 @@
 
-# Share Key & Giúp Kích Hoạt Bản Quyền Tất Cả Các Phiên Bản
+# Developer KingNNT
 
 ![Developer KingNNT](https://scontent.fhan5-1.fna.fbcdn.net/v/t1.0-9/82752713_612151932937477_110914687150850048_n.png?_nc_cat=109&_nc_ohc=oiMTiihBwh0AQne3CGG8pAonCzUMChA4EK5Ughf7HOrhd52zKKjLv8B6w&_nc_ht=scontent.fhan5-1.fna&oh=f07f6d81e6b035e8b78d4e0355b464e0&oe=5E9C911C)
 
@@ -57,3 +57,4 @@ Nếu thấy bài viết hoặc bình luận vi phạm nội quy, hãy dùng ch�
 Ban Quản Trị tuyệt đối  **KHÔNG**  có nhiệm vụ phải hỗ trợ các bạn qua Inbox hay Email cá nhân.
 
 P/S: Nội quy sẽ được sửa đổi, cập nhật theo thời gian sao cho phù hợp.
+

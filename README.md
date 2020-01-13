@@ -3,4 +3,4 @@
 ---
 Everything to know when you want to join the [My Group](https://www.facebook.com/groups/Developer.KingNNT/):
 
- - [Rules](https://github.com/KingNNT/Group-Share-Key/blob/master/RULES.md)
+ - [Rules](https://github.com/KingNNT/Facebook-Group-Manager/blob/master/RULES.md)
