@@ -6,7 +6,7 @@
 ---
 
 Nội Quy:
-Để tránh việc bị Kick, Ban hoặc bị xóa bài mà không biết nguyên nhân tại sao, đề nghị các bạn vui lòng **đọc kỹ nội quy** trước khi tham gia nhóm.
+Để tránh việc bị Kick, Ban hoặc bị xóa bài mà không biết nguyên nhân tại sao, đề nghị các bạn vui lòng **đọc kỹ nội quy** trước khi tham gia [nhóm](http://fb.com/565732730673746).
 
 ## Nội Quy Về Tài Khoản
 *Khi xin vào nhóm, những tài khoản (account) có dạng như sau sẽ **KHÔNG** được tham gia*
