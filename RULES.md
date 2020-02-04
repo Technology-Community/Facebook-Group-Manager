@@ -22,38 +22,38 @@ Nội Quy:
 
 ### Về Nội Dung
 
- - Sử dụng tiếng Việt, có dấu, tránh viết tắt. Tuyệt đối **KHÔNG** được
-   sử dụng teen code. **KHÔNG** sử dụng các từ ngữ tục tĩu, khiếm nhã,
-   thiếu văn hóa.
- - **Cấm** đăng các bài đăng lạc đề, ngoài lề, mang tính chất mua bán,...
- - Không đăng các bài liên quan đến các vấn đề về chính trị và tôn giáo,
-   vi phạm luật pháp nước CHXHCN Việt Nam, các nội dung phản cảm đi
-   ngược lại với thuần phong mĩ tục của dân tộc Việt Nam.
+ - Sử dụng Tiếng Việt, có dấu, tránh viết tắt. Tuyệt đối **KHÔNG** sử dụng teen code. **KHÔNG** sử dụng các từ ngữ tục tĩu, khiếm nhã, thiếu văn hóa.
+ - **Cấm** đăng các bài đăng lạc đề, ngoài lề, spam, bài mang tính chất mua bán, quảng cáo, rao vặt, ...
+ - Không đăng các bài liên quan đến các vấn đề về chính trị và tôn giáo, vi phạm luật pháp nước CHXHCN Việt Nam, các nội dung phản cảm đi ngược lại với thuần phong mĩ tục của dân tộc Việt Nam.
  - **Không** câu like bài viết dưới mọi hình thức.
- - **Cấm** spam, quảng cáo, rao vặt, mua bán, ...
  - **Nghiêm cấm** tuyệt đối dùng Auto-Like, Graph API Explorer,.. hoặc các hình thức để kéo tương tác bài viết, spam, ...
  - **KHÔNG** sử dụng các liên kết rút gọn (ouo, adfly, link5s...) hoặc liên kết giới thiệu (ref) trong bài viết với mục đích kiếm lợi nhuận từ nhóm.
  - Nếu bài viết, tài nguyên không phải là của bạn thì hãy **ghi nguồn** khi chia sẻ vào nhóm để tôn trọng công sức của tác giả.
  
 ### Về Chủ Đề
 
-- Group hiện tại chấp nhận tất cả các chủ đề
+- Group hiện tại chấp nhận tất cả các chủ đề.
 
 ## Nội Quy Về Bình Luận
 
--   **KHÔNG**  văng tục, bình luận vô văn hóa, chửi thề.
--   Bình luận  **PHẢI**  liên quan tới nội dung bài viết, tránh theo phong trào gây loãng nhóm.
--   Nội dung bài viết không vừa lòng thì góp ý một cách lịch sự, không chê bai quá đáng, khiêu khích. Hoặc đơn giản chỉ cần bỏ qua, đọc bài khác.
--   **KHÔNG**  spam, dùng chức năng "Sửa bình luận" thay vì bình luận liên tiếp trong thời gian ngắn.
+- **KHÔNG** văng tục, bình luận vô văn hóa, chửi thề.
+- Bình luận **PHẢI** liên quan tới nội dung bài viết, tránh theo phong trào gây loãng nhóm.
+- Nội dung bài viết không vừa lòng thì góp ý một cách lịch sự, không chê bai quá đáng, khiêu khích. Hoặc đơn giản chỉ cần bỏ qua, đọc bài khác.
+- **KHÔNG** spam, dùng chức năng "Sửa bình luận" thay vì bình luận liên tiếp trong thời gian ngắn.
 
 ## HÌNH THỨC XỬ LÝ THÀNH VIÊN VI PHẠM
 
-Tùy theo mức độ vi phạm nội quy mà các bạn có thể sẽ bị nhắc nhở,  **XÓA**  bài viết,  **KICK**  hoặc  **BAN**  vĩnh viễn khỏi nhóm.
+Tùy theo mức độ vi phạm nội quy mà các bạn có thể sẽ bị nhắc nhở, **XÓA** bài viết, **KICK** hoặc **BAN** vĩnh viễn khỏi nhóm.
 
 ---
 Nếu thấy bài viết hoặc bình luận vi phạm nội quy, hãy dùng chức năng "Báo cáo tới quản trị viên" hoặc tag thành viên BQT vào bài viết đó.
 
-Ban Quản Trị tuyệt đối  **KHÔNG**  có nhiệm vụ phải hỗ trợ các bạn qua Inbox hay Email cá nhân.
+Trong tất cả mọi trường hợp xử lý, quyết định của Ban Quản Trị sẽ luôn là quyết định cuối cùng.
 
-P/S: Nội quy sẽ được sửa đổi, cập nhật theo thời gian sao cho phù hợp.
+Ban Quản Trị tuyệt đối **KHÔNG** có nhiệm vụ phải hỗ trợ các bạn qua Inbox hay Email cá nhân.
+
+***Lưu ý***: *Nội quy sẽ được sửa đổi, cập nhật theo thời gian sao cho phù hợp.*
+
+---
+Copyright © 2020 [Technology Community](http://fb.com/565732730673746).
 
