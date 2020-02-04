@@ -10,11 +10,11 @@ Nội Quy:
 
 ## Nội Quy Về Tài Khoản
 *Khi xin vào nhóm, những tài khoản (account) có dạng như sau sẽ **KHÔNG** được tham gia*
-- Những account thiếu ảnh đại diện, ảnh bìa, hoặc vừa thay ảnh đại diện, ảnh bìa trong vòng 3 ngày.
-- Những account trắng thông tin (Không bạn bè, không tiểu sử, không bài đăng,...).
-- Những account tên không hợp lệ.
-- Những account vừa mới lập trong vòng 30 ngày.
-- Những account trả lời câu hỏi thiếu, hoặc trả lời một cách cho có.
+- Thiếu ảnh đại diện, ảnh bìa, hoặc vừa thay ảnh đại diện, ảnh bìa trong vòng 3 ngày.
+- Trắng thông tin (Không bạn bè, không tiểu sử, không bài đăng,...).
+- Tên không hợp lệ (Không có tên, tên chứa kí tự đặc biệt, ...).
+- Vừa mới lập trong vòng 30 ngày.
+- Trả lời câu hỏi khi tham gia thiếu, hoặc trả lời một cách cho có.
 
 **Đặc biệt chú ý:** Bất cứ ai chặn (Block) thành viên trong Ban Quản Trị sẽ bị chặn khỏi nhóm.
 
